@@ -2,4 +2,10 @@
 .vscode/
 
 # Directories
-datasets/
+extras/
+# datasets/
+# dev_outputs/
+# pretrained_models/
+# logs/
+# features/
+__pycache__
